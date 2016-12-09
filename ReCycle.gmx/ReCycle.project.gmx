@@ -6,15 +6,15 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\sprite0</sprite>
+    <sprite>sprites\s_Sprite0</sprite>
     <sprite>sprites\s_Object</sprite>
-    <sprite>sprites\sprite2</sprite>
+    <sprite>sprites\s_TestChar2</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\TestCharacter</object>
-    <object>objects\InteractableObject</object>
+    <object>objects\o_TestCharacter</object>
+    <object>objects\o_InteractableObject</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\TestingRoom</room>
