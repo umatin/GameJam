@@ -15,6 +15,7 @@
   <objects name="objects">
     <object>objects\TestCharacter</object>
     <object>objects\InteractableObject</object>
+    <object>objects\TextBox</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\TestingRoom</room>
