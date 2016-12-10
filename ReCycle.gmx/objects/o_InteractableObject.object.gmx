@@ -25,7 +25,11 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string></string>
+            <string>texture_set_interpolation(false);
+
+image_xscale = 2;
+image_yscale = 2;
+</string>
           </argument>
         </arguments>
       </action>
